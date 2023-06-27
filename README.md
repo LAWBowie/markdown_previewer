@@ -6,3 +6,5 @@ A project undertaken as part of FreeCodeCamps "Front-End libraries" certificatio
 - Bootstrap
 
   The project passes all the required tests.
+
+DEMO: https://lawbowie.github.io/markdown_previewer/
