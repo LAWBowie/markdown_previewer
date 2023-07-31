@@ -9,4 +9,4 @@ Technologies:
 
 The project passes all the required tests.
 
-DEMO: https://lawbowie.github.io/markdown_previewer/
+LIVE DEMO: https://lawbowie.github.io/markdown_previewer/
