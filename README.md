@@ -12,3 +12,4 @@ The project passes all the required tests.
 LIVE DEMO: https://lawbowie.github.io/markdown_previewer/
 
 My Socials:
+Twitter:
