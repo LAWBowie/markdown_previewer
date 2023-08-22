@@ -8,7 +8,7 @@ Technologies:
 - Bootstrap
 
 ### LANGUAGES AND TOOLS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode,react,bootstrap,codepen,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,github,linkedin,vscode,react,bootstrap,codepen,)](https://skillicons.dev)
 
 The project passes all the required tests.
 
